@@ -1,4 +1,4 @@
-<div align='center'><h1>Data-Visualization-with-Python</h1></div>
+<div align='center'><h1>Data Visualization with Python</h1></div>
 <div align='center'>In this repo, I will show you data visualization with python through some  example using anaconda </div>
 
 Introduction
